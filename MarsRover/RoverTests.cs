@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace MarsRover
 {
-    [TestFixture()]
+    [TestFixture( Author ="Muhsin Meydan")]
     public class RoverTests
     {
         Rover _rover;
